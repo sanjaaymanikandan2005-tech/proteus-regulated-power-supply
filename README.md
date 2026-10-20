@@ -23,8 +23,15 @@ A regulated DC power supply simulated using Proteus. The circuit converts AC inp
 4. Voltage regulators provide the 12 V, 5 V and 3.3 V DC outputs.
 5. LEDs indicate the output rails during simulation.
 
+## Simulation 
+<img width="1917" height="1045" alt="image" src="https://github.com/user-attachments/assets/eac63249-adb1-4745-955e-a956bd8f9121" />
+
+
 ## Simulation Results
 The Proteus simulation displayed output voltages of approximately 12 V, 5 V and 3.3 V.
+After simulation starts,
+<img width="1357" height="946" alt="image" src="https://github.com/user-attachments/assets/05388243-44fc-494e-bfa3-4874b2ac3376" />
+
 
 ## Tools Used
 - Proteus Design Suite
