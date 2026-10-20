@@ -33,6 +33,24 @@ After simulation starts,
 <img width="1357" height="946" alt="image" src="https://github.com/user-attachments/assets/05388243-44fc-494e-bfa3-4874b2ac3376" />
 
 
+## Key Features
+
+- AC-to-DC conversion using a bridge rectifier
+- Capacitor-based filtering to smooth the rectified output
+- Three regulated DC outputs: 12 V, 5 V and 3.3 V
+- LED indicators for output status
+- Fuse included in the simulated input circuit
+- Output voltage verification using Proteus virtual instruments
+
+## Skills Demonstrated
+
+- Basic power supply circuit design
+- Rectification and filtering
+- Voltage regulation
+- Electronic circuit simulation using Proteus
+- Circuit testing and troubleshooting
+
+
 ## Tools Used
 - Proteus Design Suite
 
